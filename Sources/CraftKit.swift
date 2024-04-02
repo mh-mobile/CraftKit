@@ -8,7 +8,7 @@
 import Foundation
 
 public struct CraftKit {
-    static func run() {
+    public static func run() {
         print("hello run!")
     }
 }
